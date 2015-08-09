@@ -4,6 +4,9 @@ EL PROYECTO REALIZA VENTAS DE PELICULAS
 	DONDE SE PUEDEN AGREGAR, EDITAR Y ELIMINAR PELICULAS
 	TAMBIEN SE PUEDE HACER UNA CONSULTA DE VENTAS
 
+en la ventana login, usuario : usuario
+			password : password
+
 DEVELOPED BY MONKEY DEE CODE
 
 https://www.facebook.com/Hackberto
